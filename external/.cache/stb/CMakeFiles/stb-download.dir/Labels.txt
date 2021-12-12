@@ -1,0 +1,14 @@
+# Target labels
+ stb-download
+# Source files and their labels
+C:/dev/animation/ass2-utChanged/external/.cache/stb/CMakeFiles/stb-download
+C:/dev/animation/ass2-utChanged/external/.cache/stb/CMakeFiles/261345a2d18b6d827864cb5241a6ff16/stb-download.rule
+C:/dev/animation/ass2-utChanged/external/.cache/stb/CMakeFiles/ee326ec1e4a77631aaf3997b87c448fa/stb-download-complete.rule
+C:/dev/animation/ass2-utChanged/external/.cache/stb/CMakeFiles/4071de1138c46e9abd98b548726def7e/stb-download-build.rule
+C:/dev/animation/ass2-utChanged/external/.cache/stb/CMakeFiles/4071de1138c46e9abd98b548726def7e/stb-download-configure.rule
+C:/dev/animation/ass2-utChanged/external/.cache/stb/CMakeFiles/4071de1138c46e9abd98b548726def7e/stb-download-download.rule
+C:/dev/animation/ass2-utChanged/external/.cache/stb/CMakeFiles/4071de1138c46e9abd98b548726def7e/stb-download-install.rule
+C:/dev/animation/ass2-utChanged/external/.cache/stb/CMakeFiles/4071de1138c46e9abd98b548726def7e/stb-download-mkdir.rule
+C:/dev/animation/ass2-utChanged/external/.cache/stb/CMakeFiles/4071de1138c46e9abd98b548726def7e/stb-download-patch.rule
+C:/dev/animation/ass2-utChanged/external/.cache/stb/CMakeFiles/4071de1138c46e9abd98b548726def7e/stb-download-test.rule
+C:/dev/animation/ass2-utChanged/external/.cache/stb/CMakeFiles/4071de1138c46e9abd98b548726def7e/stb-download-update.rule

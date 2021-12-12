@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\dev\animation\ass2-utChanged\external\.cache\glfw\CMakeFiles\399d0889f995777f3b22eb029fa65100\glfw-download-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\animation\ass2-utChanged\external\.cache\glfw\CMakeFiles\399d0889f995777f3b22eb029fa65100\glfw-download-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\animation\ass2-utChanged\external\.cache\glfw\CMakeFiles\399d0889f995777f3b22eb029fa65100\glfw-download-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\animation\ass2-utChanged\external\.cache\glfw\CMakeFiles\399d0889f995777f3b22eb029fa65100\glfw-download-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\animation\ass2-utChanged\external\.cache\glfw\CMakeFiles\399d0889f995777f3b22eb029fa65100\glfw-download-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\animation\ass2-utChanged\external\.cache\glfw\CMakeFiles\399d0889f995777f3b22eb029fa65100\glfw-download-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\animation\ass2-utChanged\external\.cache\glfw\CMakeFiles\399d0889f995777f3b22eb029fa65100\glfw-download-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\animation\ass2-utChanged\external\.cache\glfw\CMakeFiles\399d0889f995777f3b22eb029fa65100\glfw-download-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\animation\ass2-utChanged\external\.cache\glfw\CMakeFiles\1102626597c6975524611a27844926d1\glfw-download-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\animation\ass2-utChanged\external\.cache\glfw\CMakeFiles\38695fd8ecbb76effdd2f25591322458\glfw-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\animation\ass2-utChanged\external\.cache\glfw\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\dev\animation\ass2-utChanged\external\.cache\glfw\CMakeFiles\glfw-download" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{11BBFE0F-5580-3BFE-ABDC-D43BA18546AA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

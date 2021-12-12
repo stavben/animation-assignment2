@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/dev/animation/ass2-utChanged/external/.cache/glfw/CMakeFiles/glfw-download"
+		},
+		{
+			"file" : "C:/dev/animation/ass2-utChanged/external/.cache/glfw/CMakeFiles/38695fd8ecbb76effdd2f25591322458/glfw-download.rule"
+		},
+		{
+			"file" : "C:/dev/animation/ass2-utChanged/external/.cache/glfw/CMakeFiles/1102626597c6975524611a27844926d1/glfw-download-complete.rule"
+		},
+		{
+			"file" : "C:/dev/animation/ass2-utChanged/external/.cache/glfw/CMakeFiles/399d0889f995777f3b22eb029fa65100/glfw-download-build.rule"
+		},
+		{
+			"file" : "C:/dev/animation/ass2-utChanged/external/.cache/glfw/CMakeFiles/399d0889f995777f3b22eb029fa65100/glfw-download-configure.rule"
+		},
+		{
+			"file" : "C:/dev/animation/ass2-utChanged/external/.cache/glfw/CMakeFiles/399d0889f995777f3b22eb029fa65100/glfw-download-download.rule"
+		},
+		{
+			"file" : "C:/dev/animation/ass2-utChanged/external/.cache/glfw/CMakeFiles/399d0889f995777f3b22eb029fa65100/glfw-download-install.rule"
+		},
+		{
+			"file" : "C:/dev/animation/ass2-utChanged/external/.cache/glfw/CMakeFiles/399d0889f995777f3b22eb029fa65100/glfw-download-mkdir.rule"
+		},
+		{
+			"file" : "C:/dev/animation/ass2-utChanged/external/.cache/glfw/CMakeFiles/399d0889f995777f3b22eb029fa65100/glfw-download-patch.rule"
+		},
+		{
+			"file" : "C:/dev/animation/ass2-utChanged/external/.cache/glfw/CMakeFiles/399d0889f995777f3b22eb029fa65100/glfw-download-test.rule"
+		},
+		{
+			"file" : "C:/dev/animation/ass2-utChanged/external/.cache/glfw/CMakeFiles/399d0889f995777f3b22eb029fa65100/glfw-download-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glfw-download"
+		],
+		"name" : "glfw-download"
+	}
+}

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\dev\animation\ass2-utChanged\external\.cache\eigen\CMakeFiles\df041e79592bf33518785878d979b0d5\eigen-download-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\animation\ass2-utChanged\external\.cache\eigen\CMakeFiles\df041e79592bf33518785878d979b0d5\eigen-download-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\animation\ass2-utChanged\external\.cache\eigen\CMakeFiles\df041e79592bf33518785878d979b0d5\eigen-download-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\animation\ass2-utChanged\external\.cache\eigen\CMakeFiles\df041e79592bf33518785878d979b0d5\eigen-download-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\animation\ass2-utChanged\external\.cache\eigen\CMakeFiles\df041e79592bf33518785878d979b0d5\eigen-download-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\animation\ass2-utChanged\external\.cache\eigen\CMakeFiles\df041e79592bf33518785878d979b0d5\eigen-download-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\animation\ass2-utChanged\external\.cache\eigen\CMakeFiles\df041e79592bf33518785878d979b0d5\eigen-download-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\animation\ass2-utChanged\external\.cache\eigen\CMakeFiles\df041e79592bf33518785878d979b0d5\eigen-download-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\animation\ass2-utChanged\external\.cache\eigen\CMakeFiles\2052fe4cd5582635f4398d1de99c6873\eigen-download-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\animation\ass2-utChanged\external\.cache\eigen\CMakeFiles\957056dffbae4a4d8918ba24a8eb2347\eigen-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\dev\animation\ass2-utChanged\external\.cache\eigen\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\dev\animation\ass2-utChanged\external\.cache\eigen\CMakeFiles\eigen-download" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{227D76DB-4312-395B-8196-AEDAB76BEF42}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

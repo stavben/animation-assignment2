@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/dev/animation/ass2-utChanged/external/.cache/imgui/CMakeFiles/imgui-download"
+		},
+		{
+			"file" : "C:/dev/animation/ass2-utChanged/external/.cache/imgui/CMakeFiles/cdb314dcfae5e58388e513bf1c650305/imgui-download.rule"
+		},
+		{
+			"file" : "C:/dev/animation/ass2-utChanged/external/.cache/imgui/CMakeFiles/d0149824a2c9ccc33ebc514b6ebfd96a/imgui-download-complete.rule"
+		},
+		{
+			"file" : "C:/dev/animation/ass2-utChanged/external/.cache/imgui/CMakeFiles/2b1172291a5b0642b1ff89780ff77684/imgui-download-build.rule"
+		},
+		{
+			"file" : "C:/dev/animation/ass2-utChanged/external/.cache/imgui/CMakeFiles/2b1172291a5b0642b1ff89780ff77684/imgui-download-configure.rule"
+		},
+		{
+			"file" : "C:/dev/animation/ass2-utChanged/external/.cache/imgui/CMakeFiles/2b1172291a5b0642b1ff89780ff77684/imgui-download-download.rule"
+		},
+		{
+			"file" : "C:/dev/animation/ass2-utChanged/external/.cache/imgui/CMakeFiles/2b1172291a5b0642b1ff89780ff77684/imgui-download-install.rule"
+		},
+		{
+			"file" : "C:/dev/animation/ass2-utChanged/external/.cache/imgui/CMakeFiles/2b1172291a5b0642b1ff89780ff77684/imgui-download-mkdir.rule"
+		},
+		{
+			"file" : "C:/dev/animation/ass2-utChanged/external/.cache/imgui/CMakeFiles/2b1172291a5b0642b1ff89780ff77684/imgui-download-patch.rule"
+		},
+		{
+			"file" : "C:/dev/animation/ass2-utChanged/external/.cache/imgui/CMakeFiles/2b1172291a5b0642b1ff89780ff77684/imgui-download-test.rule"
+		},
+		{
+			"file" : "C:/dev/animation/ass2-utChanged/external/.cache/imgui/CMakeFiles/2b1172291a5b0642b1ff89780ff77684/imgui-download-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"imgui-download"
+		],
+		"name" : "imgui-download"
+	}
+}

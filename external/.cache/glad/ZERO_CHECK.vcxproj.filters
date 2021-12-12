@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\dev\animation\ass2-utChanged\external\.cache\glad\CMakeFiles\b7687a7ea72d1f0c03da8c261c06cc63\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{6EA9BB58-B2D0-3502-A97B-9AA9F8AD003C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

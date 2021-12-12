@@ -1,0 +1,10 @@
+^C:\DEV\ANIMATION\ASS2-UTCHANGED\EXTERNAL\.CACHE\IMGUI\CMAKEFILES\CDB314DCFAE5E58388E513BF1C650305\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/dev/animation/ass2-utChanged/external/.cache/imgui -BC:/dev/animation/ass2-utChanged/external/.cache/imgui --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/dev/animation/ass2-utChanged/external/.cache/imgui/imgui-download.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

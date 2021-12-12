@@ -1,0 +1,10 @@
+^C:\DEV\ANIMATION\ASS2-UTCHANGED\EXTERNAL\.CACHE\LIBIGL-IMGUI\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/dev/animation/ass2-utChanged/external/.cache/libigl-imgui -BC:/dev/animation/ass2-utChanged/external/.cache/libigl-imgui --check-stamp-file C:/dev/animation/ass2-utChanged/external/.cache/libigl-imgui/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
